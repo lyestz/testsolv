@@ -1,0 +1,9 @@
+Flask
+flask-cors
+torch
+torchvision
+pillow
+pytorch-lightning
+timm
+nltk
+psutil
