@@ -1,9 +1,8 @@
-Flask
-flask-cors
+flask
+flask_cors
 torch
+numpy
+Pillow
+gunicorn
 torchvision
-pillow
-pytorch-lightning
-timm
-nltk
-psutil
+Pillow
